@@ -1,8 +1,8 @@
 # Simple-Webhook-Spammer
-Hi! I created this wenhook spammer for you guys!
+Hi! I created this webhook spammer for you guys!
 All it does is just spams the channel with messages. More functions soon! (scroll down for instructions)
 
-#Activation
+# Activation
 You dont know how to activate? This is for u!
 1) Download the first file in releases
 2) Extract to a folder
